@@ -7,10 +7,10 @@ num1 = 0
 #res = 0
 
 # Get number 1
-num1 = float(input("Enter value to number 1: "))
+num1 = float(input("Enter value to number 1:  "))
 
 # Get number 2
-num2 = float(input("Enter value to number 2: "))
+num2 = float(input("Enter value to number 2:  "))
 
 # Print math menu
 print("""Math menu:
@@ -50,3 +50,5 @@ elif opt == 5:
         print("It is not possible to divide by zero")
 else:
     print("Invalid option !!!")
+
+# Version revisada Nicolas /(o_o)
