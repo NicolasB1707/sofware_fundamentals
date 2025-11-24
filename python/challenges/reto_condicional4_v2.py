@@ -3,10 +3,10 @@ num1 = 0
 num2 = 0
 
 # Get number 1
-num1 = float(input("Enter value to number 1: "))
+num1 = float(input("Enter value to number 1:  "))
 
 # Get number 2
-num2 = float(input("Enter value to number 2: "))
+num2 = float(input("Enter value to number 2:  "))
 
 # Print math menu
 print("""Math menu:
@@ -43,3 +43,4 @@ else:
                     print("Div: " + str(num1 / num2))
                 else:
                     print("Invalid option")
+# Version revisada Nicolas /(o_o)/
