@@ -1,4 +1,4 @@
-######## sofware_fundamentals ###########
+######## software_fundamentals ###########
 
 Software Fundamentals – Ejercicios y Prácticas
 
